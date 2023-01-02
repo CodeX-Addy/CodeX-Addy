@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **esoteric130305@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am a little funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
