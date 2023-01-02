@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-tomar-aba6b222b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-tomar-aba6b222b/" height="30" width="40" /></a>
 <a href="https://instagram.com/adityya__20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityya__20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aditya_2409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_2409" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/quantum world637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="quantum world637" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/r_21_22_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="r_21_22_02" height="30" width="40" /></a>
 <a href="https://kaggle.com/yakshuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yakshuu" height="30" width="40" /></a>
 </p>
