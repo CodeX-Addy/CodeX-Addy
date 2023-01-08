@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://latamlist.com/wp-content/uploads/2019/11/Header_gif_assembly-1-1.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-addy&label=Profile%20views&color=0e75b6&style=flat" alt="codex-addy" /> </p>
-
+  # About me:
 - 🔭 I’m currently working on **Neural networks**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning Algorithms**
