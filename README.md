@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm Aditya </h1>
-<h3 align="center">An Aspiring AI Engineer From India</h3>
 <h3 align="center">I like to learn new things in a creative way✨</h3>
 <img align="right" alt="Coding" width="400" src="https://latamlist.com/wp-content/uploads/2019/11/Header_gif_assembly-1-1.gif"
 
