@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏻, I'm Aditya </h1>
-<h3 align="center">I like to learn the new things in a creative way✨</h3>
+<h3 align="center">A Passionate ML Engineer From India✨</h3>
 <img align="right" alt="Coding" width="400" src="https://latamlist.com/wp-content/uploads/2019/11/Header_gif_assembly-1-1.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-addy&label=Profile%20views&color=0e75b6&style=flat" alt="codex-addy" /> </p>
