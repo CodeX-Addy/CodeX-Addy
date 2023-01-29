@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **esoteric130305@gmail.com**
 
-- ✨ Know more about me **https://ad5dy.carrd.co/**
-
 - ⚡ Fun fact **I am a little funny**
 
 <h3 align="left">Connect with me:</h3>
