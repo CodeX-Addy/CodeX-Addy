@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-addy&label=Profile%20views&color=0e75b6&style=flat" alt="codex-addy" /> </p>
  
-- 🔭 I’m currently working on **Neural networks**
+- 🔭 I’m currently working on **Image Processing**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning Algorithms**
 
