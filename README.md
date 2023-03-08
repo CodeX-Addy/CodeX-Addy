@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **esoteric130305@gmail.com**
 
-- ⚡ Fun fact **I am a little shy**
+- ⚡ Fun fact **Machines are more honest than humans**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
