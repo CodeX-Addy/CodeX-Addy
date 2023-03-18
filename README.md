@@ -10,7 +10,7 @@
 
 - 📫 You can reach me via: **esoteric130305@gmail.com**
 
-- ⚡ Fun fact **Machines are more candid than humans!!**
+- ⚡ Fun fact:- **Machines are more candid than humans!!**
 
 ### Connect with me🔗:
  
