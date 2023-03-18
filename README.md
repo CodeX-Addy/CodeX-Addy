@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning Algorithms**
 
-- 📫 How to reach me **esoteric130305@gmail.com**
+- 📫 You can reach me via: **esoteric130305@gmail.com**
 
-- ⚡ Fun fact **Machines are more candid than humans!**
+- ⚡ Fun fact **Machines are more candid than humans!!**
 
 ### Connect with me🔗:
  
