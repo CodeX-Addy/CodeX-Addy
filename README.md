@@ -6,7 +6,7 @@
  
 - 🔭 I’m currently working on **Image Processing!**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning Algorithms**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning Algorithms!**
 
 - 📫 You can reach me via: **esoteric130305@gmail.com**
 
