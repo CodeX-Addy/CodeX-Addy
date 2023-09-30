@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-addy&label=Profile%20views&color=0e75b6&style=flat" alt="codex-addy" /> </p>
  
-- 🔭 I’m currently working on **Image Processing!**
+- 🔭 I’m currently working on **Large Language Models**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning Algorithms!**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📫 You can reach me via: **esoteric130305@gmail.com**
 
