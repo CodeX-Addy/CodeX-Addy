@@ -27,7 +27,7 @@
 
 
 ### Current GitHub Stats📊 :
-![](https://github-readme-stats.vercel.app/api?username=CodeX-Addy&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CodeX-Addy&theme=radical&hide_border=false&include_all_commits=false&count_private=true&margin-left=100px)<br/>
 
 ### Github Streaks🔥:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeX-Addy&theme=radical&hide_border=false)<br/>
