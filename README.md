@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 📫 You can reach me via: **esoteric130305@gmail.com**
+- 📫 You can reach me via: **esoterix.carrd.co**
 
 - ⚡ Fun fact:- **Machines are more candid than humans!!**
  
