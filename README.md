@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 📫 You can reach me via: **esoterix.carrd.co**
+- 📫 You can reach me via: **[esoterix.carrd.co](https://esoterix.carrd.co/)**
 
 - ⚡ Fun fact:- **Machines are more candid than humans!!**
  
