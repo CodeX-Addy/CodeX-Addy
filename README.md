@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-addy&label=Profile%20views&color=0e75b6&style=flat" alt="codex-addy" /> </p>
  
-- 🔭 I’m currently working on **Large Language Models**
+- 🔭 I’m currently working on **Backend and AI Stuffs**
 
-- 🌱 I’m currently learning **Generative AI**
-
-- 📫 You can reach me via: **[esoterix.carrd.co](https://esoterix.carrd.co/)**
+- 🌱 I’m currently learning **Agentic AI**
 
 - ⚡ Fun fact:- **Machines are more candid than humans!!**
  
