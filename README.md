@@ -1,6 +1,6 @@
-<h1 align="center">Hey👋🏻, I'm Aditya </h1>
-<h3 align="center">An AI/ML Enthusiast From India✨</h3>
-<img align="right" alt="Coding" width="400" src="https://latamlist.com/wp-content/uploads/2019/11/Header_gif_assembly-1-1.gif"
+<h1 align="center">Hey there, I'm Aditya👋🏻 </h1>
+<h3 align="center">AI/ML Enthusiast | Building with Code & Curiosity</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-addy&label=Profile%20views&color=0e75b6&style=flat" alt="codex-addy" /> </p>
  
