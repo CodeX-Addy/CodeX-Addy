@@ -6,7 +6,7 @@
  
 - 🔭 I’m currently working on **Backend and AI Stuffs**
 
-- 🌱 I’m currently exploring and developing **Agentic Workflows**
+- 🌱 I’m currently exploring and developing **Agentic AI Workflows**
 
 - ⚡ Fun fact:- **Machines are more candid than humans!!**
  
