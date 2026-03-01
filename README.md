@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codex-addy&label=Profile%20views&color=0e75b6&style=flat" alt="codex-addy" /> </p>
  
-- 🔭 I’m currently working on **AI Soultions for AdTech**
+- 🔭 I’m currently working on **AI Solutions for AdTech**
 
 - 🌱 I’m currently exploring and developing **Agentic AI Workflows**
 
